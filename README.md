@@ -64,5 +64,5 @@ Hey, it's **Sriram**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, 
 
 ---
 ## 🙌 Thank You!
-👩‍💻 **Developed by:** Grishma Gedela ([Sriram](https://github.com/alesriram), GameHub)
+👩‍💻 **Developed by:** Ale Sriram (https://github.com/alesriram), GameHub)
 
