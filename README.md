@@ -1,6 +1,6 @@
 # 🎮 Game Hub - Python
 
-Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
+Hey, it's **Sriram**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
 
 ---
 ## ✨ Features
